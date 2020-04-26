@@ -1,0 +1,3 @@
+target HelloWorld
+lang c
+input helloworld.c
